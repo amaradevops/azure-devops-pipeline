@@ -32,4 +32,4 @@ stages:
      runOnce:
        deploy:
          steps:
-           - script: echo "deploy to QA1"
+           - script: echo "deploy to QA2"
